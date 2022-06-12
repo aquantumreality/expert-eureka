@@ -5,3 +5,4 @@ This repository contains Python simulations of classical/interesting mathematica
 1. Broken Sticks and Triangles - a classic problem from Probability Theory.
 2. Buffon's Needle - an interesting application of this problem is in estimating the value of π 
 3. Gambler's Ruin - a nice application of Markov's Chain
+4. Monty Hall - a puzzle, loosely based on the American TV game show 'Let's Make a Deal'
